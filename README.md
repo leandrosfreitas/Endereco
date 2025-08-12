@@ -45,7 +45,6 @@ Digite o seu CEP: 01001000
 - Adicionar suporte para consultar CEPs de outros países.
 - Criar uma interface gráfica para facilitar o uso.
 - Salvar históricos de consultas para análises futuras.
-- Implementar testes automatizados para garantir qualidade do código.
 
 ---
 
