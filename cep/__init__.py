@@ -1,7 +1,7 @@
 import sys
 import requests
 
-def check_internet(url="https://vicep.com.br/ws/01001000/json/", timeout=3):
+def check_internet(url="https://google.com.br", timeout=3):
     try:
         response = requests.get(url, timeout=timeout)
         return response.status_code == 200
